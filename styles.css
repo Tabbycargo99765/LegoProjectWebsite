@@ -50,12 +50,9 @@ h1,
 h2 {
   text-align: center;
 }
-
-.reviews {
-    display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
+.review {
+  margin : auto;
+  padding: 10px;
 }
 
 .terminator1background {
