@@ -67,15 +67,3 @@ td {
   margin-right: auto;
   text-align: center;
 }
-
- .instruction-table:link {
-  color: #f5e10a;
-}
-
-.instruction-table:hover {
-  color: black;
-}
-
-.instruction-table:visited {
-  color: #f5e10a;
-}
