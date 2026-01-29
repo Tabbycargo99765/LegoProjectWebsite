@@ -68,14 +68,14 @@ td {
   text-align: center;
 }
 
-a:link {
+ .instruction-table:link {
   color: #f5e10a;
 }
 
-a:hover {
+.instruction-table:hover {
   color: black;
 }
 
-a:visited {
+.instruction-table:visited {
   color: #f5e10a;
 }
