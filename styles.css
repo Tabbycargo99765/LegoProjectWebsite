@@ -72,3 +72,13 @@ td {
   margin-right: auto;
   text-align: center;
 }
+a:link {
+  color: #f5e10a;
+}
+
+a:hover {
+color:black;
+}
+a:visited {
+  color: #f5e10a;
+}
