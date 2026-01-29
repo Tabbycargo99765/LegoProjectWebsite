@@ -1,5 +1,6 @@
 body {
-background-color: #f5e10a; }
+  background-color: #f5e10a;
+}
 
 ul {
   list-style-type: none;
@@ -28,11 +29,13 @@ li a:hover {
 .menu {
   font-family: Georgia;
 }
+
 hr {
   height: 5px;
   background-color: black;
-  border-color:black;
+  border-color: black;
 }
+
 .Boat_homepage_image {
   display: block;
   margin-left: auto;
@@ -50,65 +53,22 @@ h1,
 h2 {
   text-align: center;
 }
+
 .review {
-  margin : auto;
-  padding: 10px;
+  margin: auto;
+  padding:
 }
 
-.terminator1background {
-  background-color: white;
-  border-radius: 25px;
-  width: 400px;
-  height: 200px;
-  text-align: right;
-  margin-left: auto;
-
-}
-.reviewimg {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-  font-size: 20px;
-
-}
-
-
-.terminator2background {
-  background-color: white;
-  border-radius: 25px;
-  width: 400px;
-  height: 200px;
-  text-align: right;
-}
-
-.starwarsbackground {
-  background-color: white;
-  border-radius: 25px;
-  width: 400px;
-  height: 200px;
-  text-align: right;
-}
 p {
   text-align: center;
 }
-.review-content {
-  margin: 0 0 10px 0;
-  font-style: Georgia;
-  position: relative;
-} 
 
-.name {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-  font-size: 17px;
-}
-.review {
-  position: absolute;
-  top: 50%;
-  width: 100%;
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
-  font-size: 20px;
 }
-
- 
